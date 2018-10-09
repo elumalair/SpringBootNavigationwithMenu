@@ -4,6 +4,7 @@ SpringBootNavigationwithMenu
 
 
 Useful Snippets
+---------------
 
     Add a navigation bar
     Use JSP Fragments
@@ -11,10 +12,11 @@ Useful Snippets
     Exercise : Highlight the correct menu item.
 
 Useful Snippets
+---------------
 
 <nav role="navigation" class="navbar navbar-default">
 	<div class="">
-		<a href="http://www.in28minutes.com" class="navbar-brand">in28Minutes</a>
+		 <a href="http://vbtperk.wordpress.com" class="navbar-brand">vbtperk</a>
 	</div>
 	<div class="navbar-collapse">
 		<ul class="nav navbar-nav">
