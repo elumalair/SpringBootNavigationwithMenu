@@ -22,7 +22,6 @@ Useful Snippets
 		<ul class="nav navbar-nav">
 			<li class="active"><a href="/login">Home</a></li>
 			<li><a href="/list-todos">Todos</a></li>
-
 		</ul>
 	</div>
 </nav>
